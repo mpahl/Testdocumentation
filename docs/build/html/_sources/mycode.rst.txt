@@ -1,0 +1,29 @@
+mycode
+======
+
+Module contents
+---------------
+
+.. automodule:: mycode
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+mycode.machine module
+---------------------
+
+.. automodule:: mycode.machine
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+mycode.test module
+------------------
+
+.. automodule:: mycode.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+
